@@ -1,0 +1,5 @@
+/backend/node_modules/
+/backend/.env
+/mobile/node_modules/
+/mobile/dist/
+/mobile/.expo/
